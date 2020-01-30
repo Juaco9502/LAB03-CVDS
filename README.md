@@ -10,7 +10,7 @@
 ### Comando para ejecutar pruebas unitarias
 >mvn test
 >mvn -Dtest=TestApp1 test
-![Pruebas](/ruta/a/la/imagen.jpg)
+![Pruebas](https://i.imgur.com/Jm3nhJP.png)
 
 ### Finalizar el ejercicio
 
