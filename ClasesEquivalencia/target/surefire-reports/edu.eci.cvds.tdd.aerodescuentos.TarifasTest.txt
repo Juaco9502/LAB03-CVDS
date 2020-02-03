@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: edu.eci.cvds.tdd.aerodescuentos.TarifasTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.064 s <<< FAILURE! - in edu.eci.cvds.tdd.aerodescuentos.TarifasTest
+edadNegativa(edu.eci.cvds.tdd.aerodescuentos.TarifasTest)  Time elapsed: 0.005 s  <<< FAILURE!
+java.lang.AssertionError: expected:<0> but was:<9>
+	at edu.eci.cvds.tdd.aerodescuentos.TarifasTest.edadNegativa(TarifasTest.java:18)
+
+tarifaBaseNegativa(edu.eci.cvds.tdd.aerodescuentos.TarifasTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<0> but was:<-1>
+	at edu.eci.cvds.tdd.aerodescuentos.TarifasTest.tarifaBaseNegativa(TarifasTest.java:49)
+
